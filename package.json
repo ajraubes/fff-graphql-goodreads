@@ -1,0 +1,15 @@
+{
+  "name": "fff-graphql-goodreads",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ajraubes/fff-graphql-goodreads.git",
+  "license": "MIT",
+  "dependencies": {
+    "dataloader": "^1.4.0",
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.1",
+    "node-fetch": "^2.0.0",
+    "xml2js": "^0.4.19"
+  }
+}
